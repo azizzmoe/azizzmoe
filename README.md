@@ -1,6 +1,6 @@
 # 👋 Hi there
 
-### I'm Abdiaziz from Somalia, I like talking about different types of technologies and developing web applications. I really enjoy learning new programming languages and having all these AHA! moments.
+### I'm Abdiaziz from Somalia, I like talking about programming languages and developing web applications. I really enjoy learning different types of technologies and having all these AHA! moments.
 
 ---
 
