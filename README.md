@@ -22,7 +22,7 @@
 
 ### 📊 Stats
 
-![Aziz's GitHub stats](https://github-readme-stats.vercel.app/api?username=azizzmoe&show_icons=true&theme=gruvbox)
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=azizzmoe&show_icons=true&theme=gruvbox)
 
 <!-- ![GitHub Streak](https://streak-stats.demolab.com?user=azizzmoe&theme=gruvbox&border_radius=4.5) -->
 
