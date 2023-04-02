@@ -2,7 +2,7 @@
 
 ### I'm Abdiaziz from Somalia, I like talking about programming languages and developing web applications. I really enjoy learning different types of technologies and having all these AHA! moments.
 
----
+<br> 
 
 ## 🧰 Languages and Tools
 
@@ -18,7 +18,7 @@
 <img align="left" alt="Express" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" />
 <img align="left" alt="MongoDB" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
 
----
+
 
 <br> 
 
