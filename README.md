@@ -2,11 +2,9 @@
 <h3 align="center">A passionate Web developer from Somalia, I talk about the Frontend way too much and I really enjoy learning different types of technologies and having all these AHA! moments.</h3>
 
 
-- 🔭 I’m currently working on **Express & MongoDB Newsletter Site**
-
 - 🌱 I’m currently learning **React & Nextjs**
 
-- 👯 I’m looking to collaborate on **Any Vanilla JS project**
+- 👯 I’m looking to collaborate on **Any HTML, CSS & JS project**
 
 - 📫 How to reach me **azizmoe@proton.me**
 
