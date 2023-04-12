@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abdiaziz</h1>
-<h3 align="center">A passionate Web developer from Somalia, I talk about the Frontend way too much and I really enjoy learning different types of technologies and having all these AHA! moments.</h3>
+<h3 align="center">A passionate Web developer from Somalia, I talk about the Javascript way too much and I really enjoy learning different types of technologies and having all these AHA! moments.</h3>
 
 
 - 🌱 I’m currently learning **React & Nextjs**
